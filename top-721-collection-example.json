@@ -1,0 +1,76 @@
+
+[
+    {
+      "address": "0x412B77507c642d6D9fc7A9FfAFB0922371222Dbd",
+      "name": "ests",
+      "type": "ERC721",
+      "symbol": "test",
+      "additionalInfo": {
+        "message": "OK",
+        "result": {
+          "cataloged": true,
+          "contractAddress": "0x412b77507c642d6d9fc7a9ffafb0922371222dbd",
+          "decimals": "",
+          "name": "ests",
+          "symbol": "test",
+          "totalSupply": "12",
+          "type": "ERC-721"
+        },
+        "status": "1"
+      },
+      "tokenHolder": {
+        "address": "0xdc1da875862fda67da687e8119d41ea803bb6ba9",
+        "value": "3"
+      },
+      "labels": ["Developer", "ENS"],
+      "nftMinted": "2",
+      "twitter": "mintpadco"
+    },
+    {
+      "address": "0x3fc5eBf0e1dA6636DD77921CC74C1B5CBf5573A5",
+      "name": "gahj",
+      "type": "ERC721",
+      "symbol": "tyuiq",
+      "additionalInfo": {
+        "message": "OK",
+        "result": {
+          "cataloged": true,
+          "contractAddress": "0x3fc5ebf0e1da6636dd77921cc74c1b5cbf5573a5",
+          "decimals": "",
+          "name": "gahj",
+          "symbol": "tyuiq",
+          "totalSupply": "4",
+          "type": "ERC-721"
+        },
+        "status": "2"
+      },
+      "tokenHolder": {
+        "address": "0xdc1da875862fda67da687e8119d41ea803bb6ba10",
+        "value": "3"
+      }
+    },
+    {
+      "address": "0xB88F306701bc82643A430bAD47Cee9EbE772650f",
+      "name": "hahga",
+      "type": "ERC721",
+      "symbol": "haha",
+      "additionalInfo": {
+        "message": "OK",
+        "result": {
+          "cataloged": true,
+          "contractAddress": "0xb88f306701bc82643a430bad47cee9ebe772650f",
+          "decimals": "",
+          "name": "hahga",
+          "symbol": "haha",
+          "totalSupply": "3",
+          "type": "ERC-721"
+        },
+        "status": "3"
+      },
+      "tokenHolder": {
+        "address": "0x54afc632a75cc2a0939875f788c9757ee67c7f61",
+        "value": "3"
+      }
+    }
+  ]
+  

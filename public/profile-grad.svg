@@ -1,0 +1,35 @@
+<svg width="508" height="504" viewBox="0 0 508 504" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g style="mix-blend-mode:color-dodge" opacity="0.8" clip-path="url(#clip0_2073_5138)" filter="url(#filter0_f_2073_5138)">
+<path d="M560 -144H-110V648H560V-144Z" fill="black"/>
+<path d="M560 -144H-110V648H560V-144Z" fill="#907CFF" fill-opacity="0.387813"/>
+<mask id="mask0_2073_5138" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-110" y="-144" width="670" height="792">
+<path d="M560 -144H-110V648H560V-144Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_2073_5138)">
+<g filter="url(#filter1_f_2073_5138)">
+<path d="M456.15 -10.845H-67.2876V480.69H456.15V-10.845Z" fill="#18A0FB"/>
+<path d="M530.269 -116.775H63.7812V306.45H530.269V-116.775Z" fill="#FF5742"/>
+<path d="M716.613 -70.74H199.875V393.075H716.613V-70.74Z" fill="#EE46D3"/>
+<path d="M488.812 237.15H121.569V649.98H488.812V237.15Z" fill="#00C5DF"/>
+</g>
+</g>
+<g style="mix-blend-mode:overlay">
+<path d="M560 -144H-110V648H560V-144Z" fill="#808080"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_2073_5138" x="-366" y="-400" width="1182" height="1304" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="128" result="effect1_foregroundBlur_2073_5138"/>
+</filter>
+<filter id="filter1_f_2073_5138" x="-350.1" y="-399.587" width="1349.53" height="1332.38" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="141.406" result="effect1_foregroundBlur_2073_5138"/>
+</filter>
+<clipPath id="clip0_2073_5138">
+<rect width="670" height="792" fill="white" transform="translate(-110 -144)"/>
+</clipPath>
+</defs>
+</svg>

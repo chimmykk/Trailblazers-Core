@@ -1,0 +1,163 @@
+[
+  {
+    "address": "0xf59894b6be8B7a646337395C547Ee50E8a7bF4D5",
+    "name": "test",
+    "type": "ERC721",
+    "symbol": "test",
+    "additionalInfo": {
+      "message": "OK",
+      "result": {
+        "cataloged": true,
+        "contractAddress": "0xf59894b6be8b7a646337395c547ee50e8a7bf4d5",
+        "decimals": "",
+        "name": "test",
+        "symbol": "test",
+        "totalSupply": "75",
+        "type": "ERC-721"
+      },
+      "status": "1"
+    },
+    "tokenHolder": {
+      "address": "0x54afc632a75cc2a0939875f788c9757ee67c7f61",
+      "value": "74"
+    }
+  },
+  {
+    "address": "0xF45bF31D5312a8ea3d9663e49aecC5527Bc36EB2",
+    "name": "testdemo",
+    "type": "ERC721",
+    "symbol": "testdemo",
+    "additionalInfo": {
+      "message": "OK",
+      "result": {
+        "cataloged": true,
+        "contractAddress": "0xf45bf31d5312a8ea3d9663e49aecc5527bc36eb2",
+        "decimals": "",
+        "name": "testdemo",
+        "symbol": "testdemo",
+        "totalSupply": "45",
+        "type": "ERC-721"
+      },
+      "status": "1"
+    },
+    "tokenHolder": {
+      "address": "0xdc1da875862fda67da687e8119d41ea803bb6ba9",
+      "value": "24"
+    }
+  },
+  {
+    "address": "0xc6b15d2CE7c6e2cDbBEc165fDe72088484987071",
+    "name": "test",
+    "type": "ERC721",
+    "symbol": "testing1",
+    "additionalInfo": {
+      "message": "OK",
+      "result": {
+        "cataloged": true,
+        "contractAddress": "0xc6b15d2ce7c6e2cdbbec165fde72088484987071",
+        "decimals": "",
+        "name": "test",
+        "symbol": "testing1",
+        "totalSupply": "14",
+        "type": "ERC-721"
+      },
+      "status": "1"
+    },
+    "tokenHolder": {
+      "address": "0xdc1da875862fda67da687e8119d41ea803bb6ba9",
+      "value": "12"
+    }
+  },
+  {
+    "address": "0xD601E4093A958d9C3eda52B971eaa742209d13E2",
+    "name": "OCEANBLUE",
+    "type": "ERC721",
+    "symbol": "OCEANBLUE",
+    "additionalInfo": {
+      "message": "OK",
+      "result": {
+        "cataloged": true,
+        "contractAddress": "0xd601e4093a958d9c3eda52b971eaa742209d13e2",
+        "decimals": "",
+        "name": "RSG",
+        "symbol": "TTSR",
+        "totalSupply": "10",
+        "type": "ERC-721"
+      },
+      "status": "1"
+    },
+    "tokenHolder": {
+      "address": "0xdc1da875862fda67da687e8119d41ea803bb6ba9",
+      "value": "8"
+    }
+  },
+  {
+    "address": "0xD601E4093A958d9C3eda52B971eaa742209d13E2",
+    "name": "RSG",
+    "type": "ERC721",
+    "symbol": "TTSR",
+    "additionalInfo": {
+      "message": "OK",
+      "result": {
+        "cataloged": true,
+        "contractAddress": "0xd601e4093a958d9c3eda52b971eaa742209d13e2",
+        "decimals": "",
+        "name": "RSG",
+        "symbol": "TTSR",
+        "totalSupply": "10",
+        "type": "ERC-721"
+      },
+      "status": "1"
+    },
+    "tokenHolder": {
+      "address": "0xdc1da875862fda67da687e8119d41ea803bb6ba9",
+      "value": "8"
+    }
+  },
+  {
+    "address": "0x2D493d879eF2E1497B4b2D9969FB8D0e56B4F9AB",
+    "name": "TESTING",
+    "type": "ERC721",
+    "symbol": "TESTING",
+    "additionalInfo": {
+      "message": "OK",
+      "result": {
+        "cataloged": true,
+        "contractAddress": "0x2d493d879ef2e1497b4b2d9969fb8d0e56b4f9ab",
+        "decimals": "",
+        "name": "TESTING",
+        "symbol": "TESTING",
+        "totalSupply": "5",
+        "type": "ERC-721"
+      },
+      "status": "1"
+    },
+    "tokenHolder": {
+      "address": "0xdc1da875862fda67da687e8119d41ea803bb6ba9",
+      "value": "4"
+    }
+  },
+  {
+    "address": "0x5271446B4c4235e4721C05D50Afc5536799f4CF0",
+    "name": "rety",
+    "type": "ERC721",
+    "symbol": "dftyfu",
+    "additionalInfo": {
+      "message": "OK",
+      "result": {
+        "cataloged": true,
+        "contractAddress": "0x5271446b4c4235e4721c05d50afc5536799f4cf0",
+        "decimals": "",
+        "name": "rety",
+        "symbol": "dftyfu",
+        "totalSupply": "1",
+        "type": "ERC-721"
+      },
+      "status": "1"
+    },
+    "tokenHolder": {
+      "address": "0x54afc632a75cc2a0939875f788c9757ee67c7f61",
+      "value": "1"
+    }
+  }
+]

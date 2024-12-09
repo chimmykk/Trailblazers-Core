@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* globals.css */
+body {
+  @apply bg-black text-white
+  }
+
+
+
+  .side-grad {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%; /* Adjust as needed */
+    height: 100%; /* Cover the full height */
+    background: url('../public/top-grad.png') no-repeat;
+    background-size: cover; /* Ensure the gradient image covers the element */
+    z-index: 1;
+    
+  }
+
+.glass {
+/* From https://css.glass */
+background: rgba(25, 23, 44, 0.54);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(10.6px);
+-webkit-backdrop-filter: blur(10.6px);
+border: 1px solid #777777;
+}
+
+.bg-Img {
+  background-image: url('../public/doge-pfps.svg');
+  background-size: cover;
+  background-position: center;
+}
+
+.button-gradient {
+  background: linear-gradient(81.62deg, #B75ECE 8.72%, #0077FE 85.01%);
+  transition: background 0.3s ease;
+}
+
+.button-gradient:hover {
+  background: linear-gradient(81.62deg, #A653BA 8.72%, #006BDE 85.01%);
+}
+
+
+.gradient-background {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.47) 100%, #000 5.01%);
+  
+}
+
+.rotate-30 {
+  transform: rotate(30deg);
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(180deg);
+  }
+  100% {
+    transform: rotate(540deg); /* 360 + 30 to complete the full circle plus the initial offset */
+  }
+}
+
+.rotate-animation {
+  animation: rotate 30s linear infinite;
+}
+
+.text-gradient {
+  background: linear-gradient(to right, #B75ECE, #0077FE);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.nav-bg{
+  /* From https://css.glass */
+background: rgba(0, 0, 0, 0.17);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(3.9px);
+-webkit-backdrop-filter: blur(3.9px);
+border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+@keyframes moveUpDown {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.animate-move-up-down {
+  animation: moveUpDown 2s infinite;
+}
