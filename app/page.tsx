@@ -31,7 +31,7 @@ export default function Home() {
             <Image src={'/tail.svg'} width={1000} height={1000} alt="bblazeers" className="w-[300px] lg:w-[440px] h-[230px]"/>
             <div className="flex flex-col lg:flex-row items-center justify-center gap-8 my-4">
               <button className='px-6 flex-1 py-3 w-full lg:w-fit z-20 cursor-pointer button-gradient rounded-full'>
-                <Link href='https://app.mintpad.co/' target='_blank' rel='noopener noreferrer'>
+                <Link href='https://mintpad.co/' target='_blank' rel='noopener noreferrer'>
                   CREATE NOW
                 </Link>
               </button>
